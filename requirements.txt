@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+whisper
+ffmpeg-python
+python-multipart
